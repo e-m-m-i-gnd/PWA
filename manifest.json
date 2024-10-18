@@ -1,5 +1,5 @@
 {
-  "name": "Configuración PWA",
+  "name": "Mi PWA",
   "short_name": "PWA",
   "start_url": "/index.html",
   "display": "standalone",
